@@ -1,4 +1,4 @@
-# Color-Options-In-Seaborn
+## Available Color Options for Palette Value in Seaborn
 >The motive behind this repository is to visualize the color options that are available as palette values in searborn library.
 
 A little about the dataset used:
